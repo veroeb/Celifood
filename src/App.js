@@ -3,12 +3,11 @@ import './App.css';
 
 import React from "react"; 
 import {
-  BrowserRouter,
+  HashRouter,
   Switch,
   Route,
   Link
 } from "react-router-dom";
-import {HashRouter} from "react-router-dom";
 import Banner from './Components/Banner';
 import Navbar from './Components/Navbar';
 import Footer from './Components/Footer';
