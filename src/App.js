@@ -3,7 +3,7 @@ import './App.css';
 
 import React from "react"; 
 import {
-  HashRouter,
+  BrowserRouter,
   Switch,
   Route,
   Link
@@ -31,7 +31,7 @@ import ScrollToTop from './Pages/ScrollToTop';
 
 function App() {
   return (
-    <HashRouter>
+    <BrowserRouter>
       <ScrollToTop />
       <Banner />
       <Navbar />
@@ -87,7 +87,7 @@ function App() {
       </Switch>
       
       <Footer /> 
-    </HashRouter>
+    </BrowserRouter>
   );
 }
 
