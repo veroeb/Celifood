@@ -1,0 +1,71 @@
+/* .col-md-8{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.btn-success{
+    display: flex;
+    justify-content: flex-end;
+} */
+
+.card img{
+    margin-left: 0;
+}
+
+#img-pizza{
+    width: 100%;
+}
+
+#cooking-time-p{
+    font-weight: 200;
+    color: rgb(121, 118, 118);
+}
+
+.ingredients-list ul{
+    list-style-type: none;
+    /* margin-left: -20px; */
+}
+
+li{
+    font-size: 1.2rem;
+    font-weight: 200;
+}
+
+.border-dark{
+    border-color: rgb(180, 179, 179) !important;
+    /* border-style: dotted !important; */
+}
+
+.gallery_item{
+    margin: 0;
+}
+
+.gallery {
+    display: grid;
+    width: 100%;
+    /* height: 50vh; */
+    grid-template-columns: 75% auto;
+    grid-template-rows: repeat(2, auto);
+    grid-template-areas: "gallery_item-1 gallery_item-2"
+                        "gallery_item-1 gallery_item-3";
+    gap: 10px;
+}
+
+.gallery_img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.gallery_item-1 {
+    grid-area: gallery_item-1;
+}
+
+.gallery_item-2{
+    grid-area: gallery_item-2;
+}
+
+.gallery_item-3{
+    grid-area: gallery_item-3;
+}
