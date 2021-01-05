@@ -37,7 +37,7 @@ export default class Recetas extends React.Component {
     }
 
     async obtenerRecetasAPI(){
-        fetch("http://165.22.191.161/api/vero/recetas/")
+        fetch("https://cors-anywhere.herokuapp.com/http://165.22.191.161/api/vero/recetas")
             .then(res => res.json())
             .then(
                 //Todo funciona
