@@ -17,13 +17,13 @@ export default class Pizza extends React.Component {
                         {/* <div class="col-md-4 text-center mx-5"> */}
                         <div className="container gallery">
                             <figure className="gallery_item gallery_item-1">
-                                <img id="img-pizza" className="mx-auto gallery_img" src="/img/pizza_parahacer.jpg" alt="Pizza" />
+                                <img id="img-pizza" className="mx-auto gallery_img" src="https://i.ibb.co/nmZvkCY/pizza-parahacer.jpg" alt="Pizza" />
                             </figure>
                             <figure className="gallery_item gallery_item-2">
-                                <img id="img-pizza" className="mx-auto gallery_img" src="/img/pizza1.jpg" alt="Pizza" />
+                                <img id="img-pizza" className="mx-auto gallery_img" src="https://i.ibb.co/wrTB8jb/pizza1.jpg" alt="Pizza" />
                             </figure>
                             <figure className="gallery_item gallery_item-3">
-                                <img id="img-pizza" className="mx-auto gallery_img" src="/img/pizza2.jpg" alt="Pizza" />
+                                <img id="img-pizza" className="mx-auto gallery_img" src="https://i.ibb.co/B3pT0M6/pizza2.jpg" alt="Pizza" />
                             </figure>
                         </div>
                         <p id="cooking-time-p" className="my-4"><i className="fa fa-clock" /> Tiempo de preparación: 30 min</p>

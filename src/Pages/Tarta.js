@@ -17,13 +17,13 @@ export default class Tarta extends React.Component {
                         {/* <div class="col-md-4 text-center mx-5"> */}
                         <div className="container gallery">
                             <figure className="gallery_item gallery_item-1">
-                                <img id="img-pizza" className="mx-auto gallery_img" src="/img/tarta_parahacer.jpg" alt="Tarta salada" />
+                                <img id="img-pizza" className="mx-auto gallery_img" src="https://i.ibb.co/tYkvXYR/tarta-parahacer.jpg" alt="Tarta salada" />
                             </figure>
                             <figure className="gallery_item gallery_item-2">
-                                <img id="img-pizza" className="mx-auto gallery_img" src="/img/tarta1.jpg" alt="Tarta salada" />
+                                <img id="img-pizza" className="mx-auto gallery_img" src="https://i.ibb.co/f1S71W2/tarta1.jpg" alt="Tarta salada" />
                             </figure>
                             <figure className="gallery_item gallery_item-3">
-                                <img id="img-pizza" className="mx-auto gallery_img" src="/img/tarta2.jpeg" alt="Tarta salada" />
+                                <img id="img-pizza" className="mx-auto gallery_img" src="https://i.ibb.co/qs9tVwG/tarta2.jpg" alt="Tarta salada" />
                             </figure>
                         </div>
                         <p id="cooking-time-p" className="my-4"><i className="fa fa-clock" /> Tiempo de preparación: 20 min</p>

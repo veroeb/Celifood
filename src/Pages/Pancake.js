@@ -17,13 +17,13 @@ export default class Pancake extends React.Component {
                         {/* <div class="col-md-4 text-center mx-5"> */}
                         <div className="container gallery">
                             <figure className="gallery_item gallery_item-1">
-                                <img id="img-pizza" className="mx-auto gallery_img" src="/img/pancakes_parahacer.jpg" alt="Pancake" />
+                                <img id="img-pizza" className="mx-auto gallery_img" src="https://i.ibb.co/Vt8L43Q/pancakes-parahacer.jpg" alt="Pancake" />
                             </figure>
                             <figure className="gallery_item gallery_item-2">
-                                <img id="img-pizza" className="mx-auto gallery_img" src="/img/pancake1.jpg" alt="Pancake" />
+                                <img id="img-pizza" className="mx-auto gallery_img" src="https://i.ibb.co/bPhJjPL/pancake1.jpg" alt="Pancake" />
                             </figure>
                             <figure className="gallery_item gallery_item-3">
-                                <img id="img-pizza" className="mx-auto gallery_img" src="/img/pancake2.jpg" alt="Pancake" />
+                                <img id="img-pizza" className="mx-auto gallery_img" src="https://i.ibb.co/yNMygp2/pancake2.jpg" alt="Pancake" />
                             </figure>
                         </div>
                         <p id="cooking-time-p" className="my-4"><i className="fa fa-clock" /> Tiempo de preparación: 20 min</p>
