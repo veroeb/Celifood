@@ -29,7 +29,7 @@ export default class Carousel extends React.Component {
                     <div className="carousel-inner">
                         <div className="carousel-item active">
                             <Link to="/pizza">
-                                <img className="d-block w-100 mx-auto" src="img/pizza.png" alt="First slide" />
+                                <img className="d-block w-100 mx-auto" src="public/img/pizza.png" alt="First slide" />
                                 {/* <img src="img/bizcocho-sin-gluten.jpg" class="d-block w-20 mx-auto" alt=""> */}
                                 <div className="carousel-caption d-none d-md-block">
                                     <h4 className="my-2">Pizza sin glúten</h4>
@@ -39,7 +39,7 @@ export default class Carousel extends React.Component {
                         </div>
                         <div className="carousel-item">
                             <Link to="/tarta">
-                                <img className="d-block w-100 mx-auto" src="img/tarta.png" alt="Second slide" />
+                                <img className="d-block w-100 mx-auto" src="public/img/tarta.png" alt="Second slide" />
                                 <div className="carousel-caption d-none d-md-block">
                                     <h4 className="my-2">Tarta sin glúten</h4>
                                     {/* <p>...</p> */}
@@ -48,7 +48,7 @@ export default class Carousel extends React.Component {
                         </div>
                         <div className="carousel-item">
                             <Link to="/pancake">
-                                <img className="d-block w-100 mx-auto" src="img/pancakes.png" alt="Third slide" />
+                                <img className="d-block w-100 mx-auto" src="public/img/pancakes.png" alt="Third slide" />
                                 <div className="carousel-caption d-none d-md-block">
                                     <h4 className="my-2">Panqueques sin glúten</h4>
                                     {/* <p>...</p> */}
@@ -71,19 +71,19 @@ export default class Carousel extends React.Component {
                     <div className="row pt-3 pb-5 text-center">
                         <div className="col-lg-4 p-4">
                             <h4 className="my-4">Pizza sin glúten</h4>
-                            <img src="img/pizza_sm.png" alt="" className="w-100 rounded" />
+                            <img src="public/img/pizza_sm.png" alt="" className="w-100 rounded" />
                             {/* <p class="lead pt-3"></p> */}
                             <a href="pizza.html" className="btn btn-success btn-lg mt-4 px-5">Ver receta</a>
                         </div>
                         <div className="col-lg-4 p-4">
                             <h4 className="my-4">Tarta sin glúten</h4>
-                            <img src="img/tarta_sm.png" alt="" className="w-100 rounded" />
+                            <img src="public/img/tarta_sm.png" alt="" className="w-100 rounded" />
                             {/* <p class="lead pt-3"></p> */}
                             <a href="tarta.html" className="btn btn-success btn-lg mt-4 px-5">Ver receta</a>
                         </div>
                         <div className="col-lg-4 p-4">
                             <h4 className="my-4">Panqueques sin glúten</h4>
-                            <img src="img/pancakes_sm.png" alt="" className="w-100 rounded" />
+                            <img src="public/img/pancakes_sm.png" alt="" className="w-100 rounded" />
                             {/* <p class="lead pt-3">Pan de maíz</p> */}
                             <a href="pancake.html" className="btn btn-success btn-lg mt-4 px-5">Ver receta</a>
                         </div>
