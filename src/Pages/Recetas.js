@@ -37,7 +37,7 @@ export default class Recetas extends React.Component {
     }
 
     async obtenerRecetasAPI(){
-        fetch("http://165.22.191.161/api/vero/recetas")
+        fetch("http://165.22.191.161/api/vero/recetas/")
             .then(res => res.json())
             .then(
                 //Todo funciona
@@ -57,7 +57,7 @@ export default class Recetas extends React.Component {
     render() {
         return (
             <div>
-                <a id="search_bar" />
+                {/* <a id="search_bar" /> */}
                 <div className="container">
                     <div className="row py-0 py-md-3 py-lg-5">
                         <div className="col-12 text-center text-uppercase mt-5">
