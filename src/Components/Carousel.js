@@ -29,7 +29,7 @@ export default class Carousel extends React.Component {
                     <div className="carousel-inner">
                         <div className="carousel-item active">
                             <Link to="/pizza">
-                                <img className="d-block w-100 mx-auto" src="/img/pizza.png" alt="First slide" />
+                                <img className="d-block w-100 mx-auto" src="img/pizza.png" alt="First slide" />
                                 {/* <img src="img/bizcocho-sin-gluten.jpg" class="d-block w-20 mx-auto" alt=""> */}
                                 <div className="carousel-caption d-none d-md-block">
                                     <h4 className="my-2">Pizza sin glúten</h4>
@@ -39,7 +39,7 @@ export default class Carousel extends React.Component {
                         </div>
                         <div className="carousel-item">
                             <Link to="/tarta">
-                                <img className="d-block w-100 mx-auto" src="/img/tarta.png" alt="Second slide" />
+                                <img className="d-block w-100 mx-auto" src="img/tarta.png" alt="Second slide" />
                                 <div className="carousel-caption d-none d-md-block">
                                     <h4 className="my-2">Tarta sin glúten</h4>
                                     {/* <p>...</p> */}
@@ -48,7 +48,7 @@ export default class Carousel extends React.Component {
                         </div>
                         <div className="carousel-item">
                             <Link to="/pancake">
-                                <img className="d-block w-100 mx-auto" src="/img/pancakes.png" alt="Third slide" />
+                                <img className="d-block w-100 mx-auto" src="img/pancakes.png" alt="Third slide" />
                                 <div className="carousel-caption d-none d-md-block">
                                     <h4 className="my-2">Panqueques sin glúten</h4>
                                     {/* <p>...</p> */}
