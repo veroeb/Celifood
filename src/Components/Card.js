@@ -15,7 +15,7 @@ export default class Card extends React.Component {
                 <h4 className="my-4">{this.props.item.titulo}</h4>
                 <img src={this.props.item.imagen} alt="" className="w-100 rounded" />
                 {/* <p class="lead pt-3"></p> */}
-                <a href={this.props.item.link} className="btn btn-success btn-md mt-4 px-5">Ver receta</a>
+                <Link to={this.props.item.link} className="btn btn-success btn-md mt-4 px-5">Ver receta</Link>
             </div>
         );
     }
