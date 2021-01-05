@@ -23,7 +23,7 @@ export default class Navbar extends React.Component {
         return(
             <nav className = "navbar navbar-dark navbar-expand-lg sticky-top" >
                 <div className="container px-3">
-                    <a href="index.html" className="navbar-brand">Celifood</a>
+                    <Link to="/" className="navbar-brand">Celifood</Link>
                     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
                         <span className="navbar-toggler-icon" />
                     </button>
