@@ -27,7 +27,7 @@ export default class Footer extends React.Component {
                             </div>
                             <div className="col-lg-4 px-4 my-4">
                                 <h3 className="border-top border-bottom w-75 mx-auto py-3 mb-4">Contáctanos</h3>
-                                <p>2613 0000</p>
+                                <p>093 767 193</p>
                                 <p>vecheza@gmail.com</p>
                                 <p>123 Calle Sur</p>
                                 <p>Montevideo, Uruguay</p>
