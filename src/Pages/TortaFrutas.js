@@ -17,13 +17,13 @@ export default class TortaFrutas extends React.Component {
                         {/* <div class="col-md-4 text-center mx-5"> */}
                         <div className="container gallery">
                             <figure className="gallery_item gallery_item-1">
-                                <img id="img-pizza" className="mx-auto gallery_img" src="/img/torta_parahacer.jpg" alt="Torta de frutas" />
+                                <img id="img-pizza" className="mx-auto gallery_img" src="https://i.ibb.co/61GNQgV/torta-parahacer.jpg" alt="Torta de frutas" />
                             </figure>
                             <figure className="gallery_item gallery_item-2">
-                                <img id="img-pizza" className="mx-auto gallery_img" src="/img/torta_1.jpg" alt="Torta de frutas" />
+                                <img id="img-pizza" className="mx-auto gallery_img" src="https://i.ibb.co/9sr795M/torta-1.jpg" alt="Torta de frutas" />
                             </figure>
                             <figure className="gallery_item gallery_item-3">
-                                <img id="img-pizza" className="mx-auto gallery_img" src="/img/torta_2.jpg" alt="Torta de frutas" />
+                                <img id="img-pizza" className="mx-auto gallery_img" src="https://i.ibb.co/dPZgDcX/torta-2.jpg" alt="Torta de frutas" />
                             </figure>
                         </div>
                         <p id="cooking-time-p" className="my-4"><i className="fa fa-clock" /> Tiempo de preparación: 40 min</p>

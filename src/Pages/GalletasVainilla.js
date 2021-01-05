@@ -17,13 +17,13 @@ export default class GalletasVainilla extends React.Component {
                         {/* <div class="col-md-4 text-center mx-5"> */}
                         <div className="container gallery">
                             <figure className="gallery_item gallery_item-1">
-                                <img id="img-pizza" className="mx-auto gallery_img" src="/img/galletas_vainilla.jpg" alt="Galletitas de Vainilla" />
+                                <img id="img-pizza" className="mx-auto gallery_img" src="https://i.ibb.co/k1sPcQJ/galletas-vainilla.jpg" alt="Galletitas de Vainilla" />
                             </figure>
                             <figure className="gallery_item gallery_item-2">
-                                <img id="img-pizza" className="mx-auto gallery_img" src="/img/galletas_vainilla_1.jpg" alt="Galletitas de Vainilla" />
+                                <img id="img-pizza" className="mx-auto gallery_img" src="https://i.ibb.co/Y8kg5p1/galletas-vainilla-1.jpg" alt="Galletitas de Vainilla" />
                             </figure>
                             <figure className="gallery_item gallery_item-3">
-                                <img id="img-pizza" className="mx-auto gallery_img" src="/img/galletas_vainilla_2.jpg" alt="Galletitas de Vainilla" />
+                                <img id="img-pizza" className="mx-auto gallery_img" src="https://i.ibb.co/Lr2sGnH/galletas-vainilla-2.jpg" alt="Galletitas de Vainilla" />
                             </figure>
                         </div>
                         <p id="cooking-time-p" className="my-4"><i className="fa fa-clock" /> Tiempo de preparación: 30 min</p>

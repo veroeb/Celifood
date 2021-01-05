@@ -17,13 +17,13 @@ export default class GalletasChips extends React.Component {
                         {/* <div class="col-md-4 text-center mx-5"> */}
                         <div className="container gallery">
                             <figure className="gallery_item gallery_item-1">
-                                <img id="img-pizza" className="mx-auto gallery_img" src="/img/galletas_chips.png" alt="Galletitas Chips" />
+                                <img id="img-pizza" className="mx-auto gallery_img" src="https://i.ibb.co/yXQsbrd/galletas-chips.png" alt="Galletitas Chips" />
                             </figure>
                             <figure className="gallery_item gallery_item-2">
-                                <img id="img-pizza" className="mx-auto gallery_img" src="/img/galletas_chips_1.jpg" alt="Galletitas Chips" />
+                                <img id="img-pizza" className="mx-auto gallery_img" src="https://i.ibb.co/82tK9pc/galletas-chips-1.jpg" alt="Galletitas Chips" />
                             </figure>
                             <figure className="gallery_item gallery_item-3">
-                                <img id="img-pizza" className="mx-auto gallery_img" src="/img/galletas_chips_2.jpg" alt="Galletitas Chips" />
+                                <img id="img-pizza" className="mx-auto gallery_img" src="https://i.ibb.co/hByvhQY/galletas-chips-2.jpg" alt="Galletitas Chips" />
                             </figure>
                         </div>
                         <p id="cooking-time-p" className="my-4"><i className="fa fa-clock" /> Tiempo de preparación: 30 min</p>

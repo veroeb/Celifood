@@ -17,13 +17,13 @@ export default class HamburguesaQuinoa extends React.Component {
                         {/* <div class="col-md-4 text-center mx-5"> */}
                         <div className="container gallery">
                             <figure className="gallery_item gallery_item-1">
-                                <img id="img-pizza" className="mx-auto gallery_img" src="/img/hamburguesa_de_quinoa_parahacer.jpg" alt="Hamburguesa de Quinoa" />
+                                <img id="img-pizza" className="mx-auto gallery_img" src="https://i.ibb.co/T12QtHk/hamburguesa-de-quinoa-parahacer.jpg" alt="Hamburguesa de Quinoa" />
                             </figure>
                             <figure className="gallery_item gallery_item-2">
-                                <img id="img-pizza" className="mx-auto gallery_img" src="/img/hamburguesa_de_quinoa_1.jpg" alt="Hamburguesa de Quinoa" />
+                                <img id="img-pizza" className="mx-auto gallery_img" src="https://i.ibb.co/Bgm4MY2/hamburguesa-de-quinoa-1.jpg" alt="Hamburguesa de Quinoa" />
                             </figure>
                             <figure className="gallery_item gallery_item-3">
-                                <img id="img-pizza" className="mx-auto gallery_img" src="/img/hamburguesa_de_quinoa_2.jpg" alt="Hamburguesa de Quinoa" />
+                                <img id="img-pizza" className="mx-auto gallery_img" src="https://i.ibb.co/kDd973S/hamburguesa-de-quinoa-2.jpg" alt="Hamburguesa de Quinoa" />
                             </figure>
                         </div>
                         <p id="cooking-time-p" className="my-4"><i className="fa fa-clock" /> Tiempo de preparación: 30 min</p>

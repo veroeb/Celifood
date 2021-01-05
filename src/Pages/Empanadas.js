@@ -17,13 +17,13 @@ export default class Empanadas extends React.Component {
                         {/* <div class="col-md-4 text-center mx-5"> */}
                         <div className="container gallery">
                             <figure className="gallery_item gallery_item-1">
-                                <img id="img-pizza" className="mx-auto gallery_img" src="/img/empanadas_parahacer.jpg" alt="Empanadas" />
+                                <img id="img-pizza" className="mx-auto gallery_img" src="https://i.ibb.co/KD4sbRY/empanadas-parahacer.jpg" alt="Empanadas" />
                             </figure>
                             <figure className="gallery_item gallery_item-2">
-                                <img id="img-pizza" className="mx-auto gallery_img" src="/img/empanadas_1.jpg" alt="Empanadas" />
+                                <img id="img-pizza" className="mx-auto gallery_img" src="https://i.ibb.co/hB5gRgC/empanadas-1.jpg" alt="Empanadas" />
                             </figure>
                             <figure className="gallery_item gallery_item-3">
-                                <img id="img-pizza" className="mx-auto gallery_img" src="/img/empanadas_2.jpg" alt="Empanadas" />
+                                <img id="img-pizza" className="mx-auto gallery_img" src="https://i.ibb.co/JQ2h4Vb/empanadas-2.jpg" alt="Empanadas" />
                             </figure>
                         </div>
                         <p id="cooking-time-p" className="my-4"><i className="fa fa-clock" /> Tiempo de preparación: 50 min</p>

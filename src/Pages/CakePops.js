@@ -17,13 +17,13 @@ export default class CakePops extends React.Component {
                         {/* <div class="col-md-4 text-center mx-5"> */}
                         <div className="container gallery">
                             <figure className="gallery_item gallery_item-1">
-                                <img id="img-pizza" className="mx-auto gallery_img" src="/img/cake_pops.jpg" alt="Cake Pops" />
+                                <img id="img-pizza" className="mx-auto gallery_img" src="https://i.ibb.co/6rYV6dy/cake-pops.jpg" alt="Cake Pops" />
                             </figure>
                             <figure className="gallery_item gallery_item-2">
-                                <img id="img-pizza" className="mx-auto gallery_img" src="/img/cake_pops_1.jpg" alt="Cake Pops" />
+                                <img id="img-pizza" className="mx-auto gallery_img" src="https://i.ibb.co/nwVjVR2/cake-pops-1.jpg" alt="Cake Pops" />
                             </figure>
                             <figure className="gallery_item gallery_item-3">
-                                <img id="img-pizza" className="mx-auto gallery_img" src="/img/cake_pops_2.jpg" alt="Cake Pops" />
+                                <img id="img-pizza" className="mx-auto gallery_img" src="https://i.ibb.co/SJRhy2Y/cake-pops-2.jpg" alt="Cake Pops" />
                             </figure>
                         </div>
                         <p id="cooking-time-p" className="my-4"><i className="fa fa-clock" /> Tiempo de preparación: 90 min</p>

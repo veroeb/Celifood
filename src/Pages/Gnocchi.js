@@ -17,13 +17,13 @@ export default class Gnocchi extends React.Component {
                         {/* <div class="col-md-4 text-center mx-5"> */}
                         <div className="container gallery">
                             <figure className="gallery_item gallery_item-1">
-                                <img id="img-pizza" className="mx-auto gallery_img" src="/img/gnocchi.jpg" alt="Ñoquis" />
+                                <img id="img-pizza" className="mx-auto gallery_img" src="https://i.ibb.co/PhftBdc/gnocchi.jpg" alt="Ñoquis" />
                             </figure>
                             <figure className="gallery_item gallery_item-2">
-                                <img id="img-pizza" className="mx-auto gallery_img" src="/img/gnocchi_1.jpg" alt="Ñoquis" />
+                                <img id="img-pizza" className="mx-auto gallery_img" src="https://i.ibb.co/8gbkTvx/gnocchi-1.jpg" alt="Ñoquis" />
                             </figure>
                             <figure className="gallery_item gallery_item-3">
-                                <img id="img-pizza" className="mx-auto gallery_img" src="/img/gnocchi_2.jpeg" alt="Ñoquis" />
+                                <img id="img-pizza" className="mx-auto gallery_img" src="https://i.ibb.co/zG9fpqH/gnocchi-2.jpg" alt="Ñoquis" />
                             </figure>
                         </div>
                         <p id="cooking-time-p" className="my-4"><i className="fa fa-clock" /> Tiempo de preparación: 30 min</p>

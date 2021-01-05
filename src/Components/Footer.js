@@ -12,16 +12,16 @@ export default class Footer extends React.Component {
                                 <a href="index.html" className="footer-brand">Celifood</a>
                                 <p className="lead">Tus recetas celíacas</p>
                                 <ul className="social pb-4 pb-lg-auto mx-auto">
-                                    <li><a href="/"><i className="fa fa-facebook" /></a></li>
-                                    <li><a href="/"><i className="fa fa-instagram" /></a></li>
-                                    <li><a href="/"><i className="fa fa-twitter" /></a></li>
-                                    <li><a href="/"><i className="fa fa-youtube" /></a></li>
+                                    <li><Link to="/"><i className="fa fa-facebook" /></Link></li>
+                                    <li><Link to="/"><i className="fa fa-instagram" /></Link></li>
+                                    <li><Link to="/"><i className="fa fa-twitter" /></Link></li>
+                                    <li><Link to="/"><i className="fa fa-youtube" /></Link></li>
                                 </ul>
                             </div>
                             <div className="col-lg-4 px-4 my-4">
                                 <h3 className="border-top border-bottom w-75 mx-auto py-3 mb-4">Links</h3>
                                 <p><Link to="/" rel="noopener noreferrer">Home</Link></p>
-                                <p><Link to="/recetas" target="_blank" rel="noopener noreferrer">Recetas</Link></p>
+                                <p><Link to="/recetas" rel="noopener noreferrer">Recetas</Link></p>
                                 <p><Link to="/about-us" rel="noopener noreferrer">Sobre Nosotros</Link></p>
                                 <p><Link to="/contacto" rel="noopener noreferrer">Contacto</Link></p>
                             </div>

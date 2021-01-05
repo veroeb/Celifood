@@ -17,13 +17,13 @@ export default class Tiramisu extends React.Component {
                         {/* <div class="col-md-4 text-center mx-5"> */}
                         <div className="container gallery">
                             <figure className="gallery_item gallery_item-1">
-                                <img id="img-pizza" className="mx-auto gallery_img" src="/img/tiramisu.jpg" alt="Tiramisú" />
+                                <img id="img-pizza" className="mx-auto gallery_img" src="https://i.ibb.co/LnQw0tX/tiramisu.jpg" alt="Tiramisú" />
                             </figure>
                             <figure className="gallery_item gallery_item-2">
-                                <img id="img-pizza" className="mx-auto gallery_img" src="/img/tiramisu_1.jpg" alt="Tiramisú" />
+                                <img id="img-pizza" className="mx-auto gallery_img" src="https://i.ibb.co/fq6J7fP/tiramisu-1.jpg" alt="Tiramisú" />
                             </figure>
                             <figure className="gallery_item gallery_item-3">
-                                <img id="img-pizza" className="mx-auto gallery_img" src="/img/tiramisu_2.jpg" alt="Tiramisú" />
+                                <img id="img-pizza" className="mx-auto gallery_img" src="https://i.ibb.co/Trfy29F/tiramisu-2.jpg" alt="Tiramisú" />
                             </figure>
                         </div>
                         <p id="cooking-time-p" className="my-4"><i className="fa fa-clock" /> Tiempo de preparación: 40 min</p>

@@ -17,13 +17,13 @@ export default class Tortellinis extends React.Component {
                         {/* <div class="col-md-4 text-center mx-5"> */}
                         <div className="container gallery">
                             <figure className="gallery_item gallery_item-1">
-                                <img id="img-pizza" className="mx-auto gallery_img" src="/img/tortellinis.jpg" alt="Tortellinis" />
+                                <img id="img-pizza" className="mx-auto gallery_img" src="https://i.ibb.co/c1XYFJ0/tortellinis.jpg" alt="Tortellinis" />
                             </figure>
                             <figure className="gallery_item gallery_item-2">
-                                <img id="img-pizza" className="mx-auto gallery_img" src="/img/tortellinis_1.jpg" alt="Tortellinis" />
+                                <img id="img-pizza" className="mx-auto gallery_img" src="https://i.ibb.co/61yzPNc/tortellinis-1.jpg" alt="Tortellinis" />
                             </figure>
                             <figure className="gallery_item gallery_item-3">
-                                <img id="img-pizza" className="mx-auto gallery_img" src="/img/tortellinis_2.jpg" alt="Tortellinis" />
+                                <img id="img-pizza" className="mx-auto gallery_img" src="https://i.ibb.co/fSjr98w/tortellinis-2.jpg" alt="Tortellinis" />
                             </figure>
                         </div>
                         <p id="cooking-time-p" className="my-4"><i className="fa fa-clock" /> Tiempo de preparación: 40 min</p>
